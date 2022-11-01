@@ -1,4 +1,4 @@
-# Lasso_Ridge_House_Prediction_Repo
+
 # Lasso-Ridge-House-Prediction
 
 > This programming assignment wherein you have build a Lasso-Ridge regression model for the prediction of house pricing.
